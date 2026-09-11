@@ -15,8 +15,6 @@ CAD renderings and prototype design files for the **EcoFarm AI** smart farming d
 ### EcoFarm AI View CAD
 ![EcoFarm AI View CAD](EcoFarm_AI_View%20CAD.png)
 
-### EcoFarm AI CAD
-![EcoFarm AI CAD](EcoFarm_Ai_CAD.png)
 
 ### Prototype Project CAD
 ![Mine Prototype Project CAD](Mine%20Prototype%20Project%20CAD.png)
